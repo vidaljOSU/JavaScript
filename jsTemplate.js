@@ -1,0 +1,1 @@
+/*jslint plusplus: true, sloppy: true, vars: true, indent: 2, maxlen: 80 */
